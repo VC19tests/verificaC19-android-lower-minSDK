@@ -4,7 +4,7 @@ url: "https://github.com/ministero-salute/it-dgc-verificaC19-android"
 name: VerificaC19
 releaseDate: '2021-09-20'
 softwareType: standalone/mobile
-softwareVersion: develop-1.1.2-API23-zxing-core-3.3.2
+softwareVersion: develop-API23-zxing-core-3.3.2
 developmentStatus: stable
 logo: logo.png
 platforms:
