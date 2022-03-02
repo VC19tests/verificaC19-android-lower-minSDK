@@ -3,6 +3,7 @@ on:
   push:
     branches:
     - main
+    - feature/double-scan
   pull_request:
     types:
     - opened
